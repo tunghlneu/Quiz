@@ -1,0 +1,68 @@
+[
+    {
+        "question": "Việt Nam có bao nhiêu tỉnh thành tính đến năm 2020?",
+        "indexRightAnswer": 4,
+        "answers":
+        [
+            {
+                "answer": "A. 60",
+                "isSelected": false
+            },
+            {
+                "answer": "B. 61",
+                "isSelected": false
+            },
+            {
+                "answer": "C. 62",
+                "isSelected": false
+            },
+            {
+                "answer": "D. 63",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "question": "Dịch viêm đường hô hấp cấp do chủng mới của virus CORONA (nCoV) gây ra bắt nguồn từ nước nào?",
+        "indexRightAnswer": 2,
+        "answers":
+        [
+            {
+                "answer": "A. Ấn Độ",
+                "isSelected": false
+            },
+            {
+                "answer": "B. Trung Quốc",
+                "isSelected": false
+            },
+            {
+                "answer": "C. Việt Nam",
+                "isSelected": false
+            },
+            {
+                "answer": "D. Trung Đông",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "question": "Lá cờ Tổ quốc của Việt Nam có mấy màu?",
+        "indexRightAnswer": 2,
+        "answers":
+        [
+            {
+                "answer": "A. 1",
+                "isSelected": false
+            },
+            {
+                "answer": "B. 2",
+                "isSelected": false
+            },
+            {
+                "answer": "C. 3",
+                "isSelected": false
+            }
+        ]
+    }
+]
+
